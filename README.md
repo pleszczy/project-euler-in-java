@@ -1,1 +1,1 @@
-# project-euler-in-java
+# recruitment task for Software Mind

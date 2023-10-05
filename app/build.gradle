@@ -19,10 +19,10 @@ testing {
 
 java {
     toolchain {
-        languageVersion = JavaLanguageVersion.of(21)
+        languageVersion = JavaLanguageVersion.of(18)
     }
 }
 
 application {
-    mainClass = 'project.euler.in.java.App'
+    mainClass = 'recruitment.task.softwaremind.InvoiceApp'
 }
